@@ -1,7 +1,7 @@
 ## Hi there 👋 my name is Deyron Adams. 
 
 
-**deyron92/deyron92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--**deyron92/deyron92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..-->
 
 -🔭 I’m currently working on ...
 
