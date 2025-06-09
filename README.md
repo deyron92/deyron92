@@ -3,6 +3,15 @@
 
 <!-- **deyron92/deyron92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.. -->
 
+## 📜 Certifications
+
+- [![CompTIA Network+ Badge](https://images.credly.com/size/340x340/images/8fc77b0d-e820-4e2d-9ed4-7b88a1ba5b17/comptia-network-ce-certification.png)](https://www.credly.com/badges/42433f63-6246-4a26-9efd-3497a89cf8ac/public_url)  
+  **CompTIA Network+ (N10-009)**  
+  [🔗 View Credential on Credly](https://www.credly.com/badges/42433f63-6246-4a26-9efd-3497a89cf8ac/public_url)
+ 
+  **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+  [🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/DeyronAdams-3761/837231D7F02239E?sharingId=7863FCF2448CC102)
+
 -🔭 I’m currently working on ...
 
 - 🌱 I’m currently studying for...<br>
