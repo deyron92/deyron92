@@ -8,10 +8,10 @@
   [🔗 View Credential on Credly](https://www.credly.com/badges/42433f63-6246-4a26-9efd-3497a89cf8ac/public_url)
  
   **Microsoft Certified: Azure Fundamentals (AZ-900)** <br> 
-  Network Diagnostic toolkit[🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/DeyronAdams-3761/837231D7F02239E?sharingId=7863FCF2448CC102)
+  [🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/DeyronAdams-3761/837231D7F02239E?sharingId=7863FCF2448CC102)
 
 -🔭 I’m currently working on ...
-[🔗 View the Repository](https://github.com/deyron92/network-diagnostic-toolkit)
+Network Diagnostic Toolkit - [🔗 View the Repository](https://github.com/deyron92/network-diagnostic-toolkit)
 
 - 🌱 I’m currently studying for...<br>
   Comptia Security+ exam 
