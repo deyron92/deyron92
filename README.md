@@ -7,10 +7,10 @@
   **CompTIA Network+ (N10-009)**  
   [🔗 View Credential on Credly](https://www.credly.com/badges/42433f63-6246-4a26-9efd-3497a89cf8ac/public_url)
  
-  **Microsoft Certified: Azure Fundamentals (AZ-900)** <br> 
+  **Microsoft Certified: Azure Fundamentals (AZ-900)** 
   [🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/DeyronAdams-3761/837231D7F02239E?sharingId=7863FCF2448CC102)
 
--🔭 I’m currently working on ...
+-🔭 I’m currently working on ... <br>
 Network Diagnostic Toolkit - [🔗 View the Repository](https://github.com/deyron92/network-diagnostic-toolkit)
 
 - 🌱 I’m currently studying for...<br>
