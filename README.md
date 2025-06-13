@@ -12,6 +12,7 @@
 
 -🔭 I’m currently working on ... <br>
 Network Diagnostic Toolkit - [🔗 View the Repository](https://github.com/deyron92/network-diagnostic-toolkit)
+Python Port Scanner - ➡️ [View Repository](https://github.com/deyron92/port_scanner.py)
 
 - 🌱 I’m currently studying for...<br>
   Comptia Security+ exam 
